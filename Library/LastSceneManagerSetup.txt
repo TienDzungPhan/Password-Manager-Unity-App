@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/SignUp_Screen.unity
+  isLoaded: 1
+  isActive: 1
